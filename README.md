@@ -14,3 +14,6 @@ The numerical simulation is performed using Euler's method, a straightforward te
 
 ## Agent-Based Modeling
 The agent-based model (ABM) simulates individual interactions within a population. Each agent represents an individual with specific attributes and behaviors, allowing for a more granular and realistic simulation of disease spread.
+
+## Contact
+For any questions or further information, please contact pedro@uni.minerva.edu.
